@@ -1,0 +1,48 @@
+.org{
+    color:teal;
+    font-size:30px;
+    font-weight:bold;
+    font-family:'cursive', Aria;
+}
+
+#others{
+    color:red;
+    font-size:30px;
+    font-weight:bold;
+    font-family:'fantacy', sans-serif;
+}
+
+[value="2"]{
+    color:green;
+    font-size:30px;
+    font-weight:bold;
+    font-family:'Arial', helvetica;
+}
+
+ ol{
+    color: purple;
+}
+
+ul{
+    color:blue;
+}
+
+img{
+    width :80px;
+    height :80px;
+}
+div{
+    background-color:teal;
+    width:200px;
+    height: 200px;
+    margin:20px;
+    padding:20px;
+    border:none;
+    border-radius:5px;
+}
+
+div p{
+    font-family:'mono spacing';
+    font-size:30px;
+    
+}
